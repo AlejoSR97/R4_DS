@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<NDSMail>
+    <MiscSettings>
+        <AttachmentAction value="0" />
+        <TransmitButtonBehaviour value="0" />
+    </MiscSettings>
+    <Accounts />
+    <Feeds />
+    <AddressBook />
+</NDSMail>
